@@ -1,0 +1,11 @@
+{
+    "WillLuke.nextjs.addTypesOnSave": true,
+    "WillLuke.nextjs.hasPrompted": true,
+    "eslint.format.enable": true,
+    "editor.defaultFormatter": "dbaeumer.vscode-eslint",
+    "editor.formatOnSave": true,
+    "files.autoSave": "onWindowChange",
+    "editor.formatOnPaste": true,
+    "explorer.confirmDelete": false,
+  
+  }
